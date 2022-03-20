@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/q1dkdwg292746xqx/branch/master?svg=true)](https://ci.appveyor.com/project/Dima078/api-ci/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/q1dkdwg292746xqx?svg=true)](https://ci.appveyor.com/project/Dima078/api-ci)
